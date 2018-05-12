@@ -14,6 +14,13 @@ Each instance of Mr. Build Server will be delivered as a single docker image tha
 
 The one element that is centralized is the Dashboard - each of the instances can connect to one or more Dashboard, so that interested parties can view build status and other elements of the individual pipelines as appropriate.
 
+## Building & Testing
+
+You'll need a local docker host to start.  (https://www.docker.com)
+
+To build and load the image locally, and then run integration tests: `sbt clean docker:publishLocal it:test` 
+
+
 ## Contributing 
 
 Lots of work to do.  All help appreciated.
