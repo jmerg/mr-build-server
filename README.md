@@ -1,4 +1,4 @@
-# mr-build-server
+# Mr. Build Server
 
 ## Background
 
@@ -16,4 +16,4 @@ The one element that is centralized is the Dashboard - each of the instances can
 
 ## Contributing 
 
-It's pretty much a blank slate right now - anything you can do to help will be appreciated.
+Lots of work to do.  All help appreciated.
